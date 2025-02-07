@@ -1,0 +1,9 @@
+langchain_openai
+pydantic
+python-docx
+Pillow
+requests
+python-dotenv
+uvicorn
+fastapi
+streamlit
